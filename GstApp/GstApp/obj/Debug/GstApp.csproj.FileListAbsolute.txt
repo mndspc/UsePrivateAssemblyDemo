@@ -1,0 +1,10 @@
+D:\Corporate\Nordic Academy\C#\Demos\UsePrivateAssemblyDemo\GstApp\GstApp\bin\Debug\GstApp.exe.config
+D:\Corporate\Nordic Academy\C#\Demos\UsePrivateAssemblyDemo\GstApp\GstApp\bin\Debug\GstApp.exe
+D:\Corporate\Nordic Academy\C#\Demos\UsePrivateAssemblyDemo\GstApp\GstApp\bin\Debug\GstApp.pdb
+D:\Corporate\Nordic Academy\C#\Demos\UsePrivateAssemblyDemo\GstApp\GstApp\bin\Debug\GstUtilities.dll
+D:\Corporate\Nordic Academy\C#\Demos\UsePrivateAssemblyDemo\GstApp\GstApp\bin\Debug\GstUtilities.pdb
+D:\Corporate\Nordic Academy\C#\Demos\UsePrivateAssemblyDemo\GstApp\GstApp\obj\Debug\GstApp.csproj.AssemblyReference.cache
+D:\Corporate\Nordic Academy\C#\Demos\UsePrivateAssemblyDemo\GstApp\GstApp\obj\Debug\GstApp.csproj.CoreCompileInputs.cache
+D:\Corporate\Nordic Academy\C#\Demos\UsePrivateAssemblyDemo\GstApp\GstApp\obj\Debug\GstApp.csproj.CopyComplete
+D:\Corporate\Nordic Academy\C#\Demos\UsePrivateAssemblyDemo\GstApp\GstApp\obj\Debug\GstApp.exe
+D:\Corporate\Nordic Academy\C#\Demos\UsePrivateAssemblyDemo\GstApp\GstApp\obj\Debug\GstApp.pdb
